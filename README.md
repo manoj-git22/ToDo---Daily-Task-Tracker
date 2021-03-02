@@ -5,7 +5,7 @@ A minimalistic Todo app with many features to simplify the daily task tracking a
 ![image](https://user-images.githubusercontent.com/77744476/109613856-c278cd00-7b57-11eb-8180-98c5ba6a831b.png)
 ![image](https://user-images.githubusercontent.com/77744476/109614343-842fdd80-7b58-11eb-935e-7a89aab62c99.png)
 ![image](https://user-images.githubusercontent.com/77744476/109614368-8c881880-7b58-11eb-9d96-e121cb1867d9.png)
-# New category 'Gym' added by the user 
+# New category 'Gym' added by the user. Users can add multiple new categories
 ![image](https://user-images.githubusercontent.com/77744476/109614673-f1dc0980-7b58-11eb-91f6-44f710bcea90.png)
 # Progress of tasks in the category tracked using progress bar and info below the bar
 ![image](https://user-images.githubusercontent.com/77744476/109614148-416e0580-7b58-11eb-8f30-449d279415f5.png)
